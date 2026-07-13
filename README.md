@@ -1,0 +1,2 @@
+# astramining
+Un juego divertido
